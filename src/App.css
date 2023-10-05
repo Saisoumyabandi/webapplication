@@ -8,7 +8,7 @@
  display: flex;
   height: 20vh;
   list-style-type: none;
-  background-color: rgb(143, 136, 136);
+  background-color: rgb(255, 244, 244);
   width: 100%;
   height: 7vh;
   
@@ -16,7 +16,7 @@
 }
 .list2{
   text-decoration: none;
-  color: #fff;
+  color: #0f0d0d;
   margin:40px;
 }
 .img{
@@ -43,3 +43,303 @@
   height: 90vh;
   width: 100%;
 }
+.para1{
+  color: #fff;
+  position: absolute;
+  left: 55%;
+  top:5% ;
+}
+.icon1{
+  color: rgb(233, 34, 34);
+  position: absolute;
+  top: 10%;
+  left:-40% ;
+  font-size: 35px;
+  
+}
+.facebook{
+  color:rgb(252, 248, 248);
+  left: 90%;
+  position: absolute;
+  top: 10%;
+
+}
+.twitter{
+  color: #e5dada;
+  left: 95%;
+  position: absolute;
+  top: 10%;
+}
+
+.para2{
+  color: #fff;
+  position: absolute;
+  left: 67%;
+  top:5% ;
+}
+.car1{
+  
+  color: orange;
+  height: 20vh;
+  position: absolute;
+  left: 10%;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 1000;
+  font-size: 40px;
+  top:115%;
+
+}
+.car{
+  background-color: #0f0d0d;
+  height: 23vh;
+}
+.btn{
+  position: absolute;
+  top: 124%;
+  left: 10%;
+
+}
+.btn1{
+  background-color:rgb(252, 245, 245);
+  color:rgb(243, 61, 61);
+  outline: none;
+  border: none;
+  height: 8vh;
+  font-weight: bold;
+  
+  
+}
+.btn2{
+  background-color:rgb(62, 58, 58);
+  color: white;
+  outline: none;
+  border: none;
+  height: 8vh;
+  font-weight: bold;
+  
+}
+.btn3{
+  background-color:rgb(55, 52, 52);
+  color: rgb(197, 186, 186);
+  outline: none;
+  border: none;
+  height: 8vh;
+  font-weight: bold;
+  
+}
+.sonu{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.sonu1{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: aqua;
+  width: 18%;
+  height: 5vh;
+}
+.sonu2{
+  height: 130vh;
+  
+}
+.sonu-4{
+  width: 100%;
+  height: 80vh;
+}
+.btn5{
+  position: absolute;
+  left: 45%;
+   background-color:rgb(55, 0, 255);
+   color: white;
+   border: none;
+   outline: none;
+   width: 10%;
+   height: 10vh;
+   font-weight: bold;
+}
+.text-1{
+  background-color: orange;
+  width: 39%;
+  left: 10%;
+  height: 31vh;
+  position: absolute;
+  top: 300%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.text-4{
+  background-color: rgb(239, 20, 56);
+  width: 39%;
+  left: 50%;
+  height: 31vh;
+  position: absolute;
+  top: 300%;
+  text-align: center;
+ 
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.text{
+  position: absolute;
+  top: 20%;
+  left: 15%;
+}
+.text-2{
+  position: absolute;
+  font-size: 30px;
+  left: 20%;
+  top: 20%;
+}  
+.text-3{
+  font-size: 17px;
+  top: 43%;
+  left: 17%;
+  position: absolute;
+}
+.icon-6{
+  position: absolute;
+  left: 6%;
+  font-size: 58px;
+  top: 41%;
+}
+.text-6{
+  font-size: 17px;
+  top: 43%;
+  left: 17%;
+  position: absolute;
+}
+.icon-7{
+  position: absolute;
+  left: 6%;
+  font-size: 58px;
+  top: 41%;
+}
+.lucky{
+  height: 85vh;
+  
+}
+.lucky1{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lucky2{
+  display: flex;
+  position: absolute;
+  top: 370%;
+  left: 4%;
+}
+.lucky3{
+  margin: 90px;
+  list-style-type: none;
+  font-weight: bold;
+}
+.lucky4{
+  display: flex;
+  position: absolute;
+  top: 395%;
+  left: 10%;
+}
+.lax{
+  position: absolute;
+  left:-32%;
+  top: 5%;
+  color: rgb(245, 44, 17);
+  font-size: 55px;
+}
+.lax1{
+  position: absolute;
+  left:-32%;
+  top: 5%;
+  color: rgb(245, 46, 20);
+  font-size: 55px;
+}
+.lax2{
+  position: absolute;
+  left:-33%;
+  top: 5%;
+  color: rgb(246, 51, 25);
+  font-size: 55px;
+}
+.lax3{
+  position: absolute;
+  left:-33%;
+  top: 5%;
+  color: rgb(245, 70, 47);
+  font-size: 55px;
+}
+
+
+
+.lucky5{
+  
+  list-style-type: none;
+  position: relative;
+  list-style-type: none;
+  left: 1%;
+  
+}
+.lucky6{
+  position: relative;
+  list-style-type: none;
+  left: 20%;
+}
+.lucky7{
+  position: relative;
+  list-style-type: none;
+  left: 33%;
+}
+.lucky8{
+  position: relative;
+  list-style-type: none;
+  left: 45%;
+}
+.lucky9{
+  width: 100%;
+  height: 90vh;
+}
+.lucky10{
+  width: 40%;
+  background-color: orange;
+  height: 50vh;
+  position: absolute;
+  top: 450%;
+  left: 60%;
+}
+.btn6{
+  position: absolute;
+  left: 45%;
+   background-color:rgb(76, 153, 235);
+   color: white;
+   border: none;
+   outline: none;
+   width: 15%;
+   height: 8vh;
+   font-weight: bold;
+   top: 418%;
+   border-radius: 20px;
+   
+}
+.sai1{
+  color: #fff;
+}
+.sai3{
+  background-color: black;
+  height: 70vh;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
